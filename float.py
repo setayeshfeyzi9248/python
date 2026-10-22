@@ -1,0 +1,5 @@
+print (0.2+0.2)
+print(0.4+0.4)
+print(2*0.1)
+print(3*0.8)
+print(6/3)
